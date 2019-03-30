@@ -1,4 +1,3 @@
-greeting = "hello world"
-
-display_greeting
+def display_greeting
+  "hello_world"
 end
