@@ -1,3 +1,4 @@
-"hello world"
+greeting = "hello world"
 
-hello_world
+display_greeting
+end
